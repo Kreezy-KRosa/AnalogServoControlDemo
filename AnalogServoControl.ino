@@ -1,7 +1,7 @@
 //Analog Joystick Servo Example Code
 //by Kreezy(KRosa) 1.12.2018
 
-//Example Video can be found @ 
+//Example Video can be found @ https://youtu.be/b58vSDy8nB8
 
 #include <Servo.h>  // includes the Servo library
 
