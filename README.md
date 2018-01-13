@@ -1,5 +1,5 @@
 # AnalogServoControl
- Example Code 
+# Arduino IDE Example Code
 # By Kreezy(KRosa) 1.12.2018
 
 // Connect the data wire from the Servo to pin 9
